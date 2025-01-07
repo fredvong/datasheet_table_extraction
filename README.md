@@ -25,7 +25,7 @@ This project was developed with the assistance of Cursor AI to solve a specific 
 
 ## Development Process with Cursor AI
 
-![Cursor AI Development Process](./screenshot.png)
+![Cursor AI Development Process](./Screenshot.png)
 
 The screenshot above shows the Cursor AI Composer window where the development took place. In this interface:
 - The left panel shows the chat interaction where requirements were discussed
